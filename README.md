@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi 👋 My name is Grigory Klyashtornyi
+=============================
 
-<!--
-**Klyashtornyi/Klyashtornyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student in ITMO University 🎒 (First year)
+-------------
 
-Here are some ideas to get you started:
+* 🌍  I'm based in Saint-Petersburg, Russia
+* 🧠  I want to become a Go (Golang) developer.
+* 🤝  I'm open to collaborating
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact me:
+👋 Telegram - @osiriskype
+📧 Email - Klyashtornyi@bk.ru
+
+
+📚 What I'm learning at ITMO:
+
+* 🧮 discrete mathematics
+* 🧑‍💻 Programming (C/C++/Python)
+* 💡 Algorithms and Data Structures
+* 🇬🇧 English
+
+> 💻 *“Theory is when you know everything, but nothing works. Practice is when everything works, but no one knows why. We combine theory and practice: nothing works... and no one knows why!”*
+> 
+> — **Albert Einstein (as adapted by programmers)**
+
